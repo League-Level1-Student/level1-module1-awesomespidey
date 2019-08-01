@@ -45,7 +45,7 @@ class Microwave {
 
 public class Popcorn {
 
-	private int kernels = 20;
+	private int kernels = 100;
 	private String flavor;
 	private boolean isCooked = false;
 

@@ -8,9 +8,13 @@ package _03_harry_potter;
 		 * The main method should:
 		 * 
 		* 1. create harry potter
+		
 		* 2. make him become invisible
+		
 		* 3. spy on Professor Snape
+		
 		* 4. make him become visible again
+		
 		* 5. cast a “stupefy” spell
 		*/
 
@@ -19,7 +23,7 @@ public class HarryPotter {
 	private boolean cloakOn;
 
 	HarryPotter() {
-		System.out.println("making Harry Potter...");
+		System.out.println("Making Harry Potter...");
 	}
 
 	void castSpell(String spell) {
