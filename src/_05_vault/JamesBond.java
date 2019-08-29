@@ -6,7 +6,8 @@ public class JamesBond {
 			if (vault.tryCode(i)==true){
 				return i;
 			}
+		}
+		return -1;
 	}
-	}
-return - 1;
+
 }
